@@ -1,1 +1,1 @@
-# BBMTechnologies
+BBM Technologies website based on the approved mockup and copy. Open index.html or upload all files to Cloudflare Pages. No phone number or phone symbol is included. No unverified email is included. Images are cropped from the approved illustrative mockup and are not verified documentary photographs.
